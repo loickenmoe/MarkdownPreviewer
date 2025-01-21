@@ -1,0 +1,8 @@
+
+.icon {
+    transition: color 0.3s;
+  }
+  
+  .icon:hover {
+    color: #0ce70c;
+  }
